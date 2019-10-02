@@ -15,7 +15,8 @@ public class Main {
         //si el tamany del numero es igual al tamañ de la llista de digits de cada numero, significa que es mante, en la llista de numeros,
         //i els valors de digits auxiliars, s'afegeixen a la llista de digits ocurreguts, sino no
         ArrayList llistaNumeros= new ArrayList();
-        llistaNumeros.add(10);
+//        llistaNumeros.add(10);  modifico el primer valor
+        llistaNumeros.add(1);
         llistaNumeros.add(23);
         llistaNumeros.add(45);
         llistaNumeros.add(56);
