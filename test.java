@@ -1,5 +1,5 @@
 //author Guillem Ardanuy Martinez
-
+//author Ariel Zambrano
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -18,7 +18,7 @@ public class Main {
 //        llistaNumeros.add(10);  modifico el primer valor
         llistaNumeros.add(1);
         llistaNumeros.add(23);
-        llistaNumeros.add(45);
+        llistaNumeros.add(50);
         llistaNumeros.add(56);
         llistaNumeros.add(1888);
         llistaNumeros.add(9779);
