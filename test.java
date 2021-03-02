@@ -85,5 +85,6 @@ public class Main {
         Collections.sort(llistaNumeros);
 
         System.out.println("llista: "+llistaNumeros+" SUMA ES: " +sumaTotal);
+//Pepito
     }// fi psvm
 }// fi main
